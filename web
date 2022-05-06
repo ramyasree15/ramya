@@ -1,0 +1,63 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Make a Navigation Bar  
+</Title>  
+<style type=text/css>   
+body   
+{  
+height: 125vh;  
+margin-top: 80px;  
+padding: 30px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+header {  
+background-color: orange;  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 30px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 25px 0 black;  
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+margin: 20px;  
+}  
+header li a {  
+color: blue;  
+text-decoration: none;  
+}  
+</style>   
+</Head>  
+<Body>
+    <img src="logo.JNG">  
+<header>  
+<nav>  
+<ul>  
+<li>  
+<a href="#"> Home </a>  
+</li>  
+<li>  
+<a href="#"> About </a>  
+</li>  
+<li>  
+<a href="#"> Contact </a>  
+</li>  
+<li> <a href="#"> Terms of use </a>  
+</li>  
+<li>  
+<a href="#"> Join Us </a>  
+</li>  
+</ul>  
+</nav>  
+</header>  
+<h1>Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development.</h1>
+</Body>   
+</Html>  
